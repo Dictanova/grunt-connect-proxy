@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "http-proxy": "git@github.com:abanctelchevrel/node-http-proxy.git#4c907a283c16efc672ff1460d58d49f6370a2526",
+    "http-proxy": "abanctelchevrel/node-http-proxy.git#4c907a283c16efc672ff1460d58d49f6370a2526",
     "lodash": "~0.9.0"
   },
   "devDependencies": {
